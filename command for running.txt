@@ -1,0 +1,2 @@
+g++ SmartParkingSystem.cpp main.cpp -o SmartParkingSystem
+./SmartParkingSystem
